@@ -1,3 +1,3 @@
 # Databricks notebook source
 # MAGIC %sql
-# MAGIC select * from diamond
+# MAGIC select * from demos
